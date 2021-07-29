@@ -1,4 +1,4 @@
-### Opa! Eu sou o famigerado Rogerin 🤔😎👍
+### Opa! Famigerado Rogerin 🤔😎👍
 
 <!--
 - 🔭 I’m currently working on ...
