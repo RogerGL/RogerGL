@@ -1,4 +1,4 @@
-### Opa! Eu sou o Roger Guimarães 😜
+### Opa! Eu sou o famigerado Rogerin 🤔😎👍
 
 <!--
 - 🔭 I’m currently working on ...
