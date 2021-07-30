@@ -29,7 +29,7 @@
 <img align="center" alt="Rogi-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
 <img align="center" alt="Rogi-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 <img align="center" alt="Rogi-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-  <img align="right" alt="Rogi-Zennitsu" src="https://media.discordapp.net/attachments/770742898328338502/870373274452918372/zennnn.gif">
+  <img align="right" alt="Rogi-beemo" src="https://media.discordapp.net/attachments/770742898328338502/870657928791728128/tenora.gif">
 </div>
  
 ##
