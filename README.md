@@ -1,4 +1,4 @@
-### Opa! Famigerado Rogerin 🤔😎👍
+### Olá! Tudo bem? Me chamo Roger Guimarães. 😆
 
 
 <!--
