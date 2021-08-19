@@ -1,4 +1,4 @@
-### <div color:blue>Olá! Tudo bem? Me chamo Roger Guimarães. 😆</div>
+### >Olá! Tudo bem? Me chamo Roger Guimarães. 😆
 
 
 <!--
