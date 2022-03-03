@@ -33,7 +33,7 @@ color: rgb(160, 112, 255);
 
 
             </style>
-            <h1>I'm Roger, I'm a</h1>
+            <h1 style="color:red">I'm Roger, I'm a</h1>
 <div class="container">
   <div class="typed-out">Full Stack Developer</div></div>
         </div>
