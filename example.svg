@@ -12,7 +12,7 @@ body{
   display: inline-block;
 }
 .typed-out{
-color: rgb(160, 112, 255);
+color: rgb(173, 151, 216);
   overflow: hidden;
   font-family: "Source Code Pro", monospace; 
   border-right: .15em solid purple;
@@ -33,7 +33,7 @@ color: rgb(160, 112, 255);
 
 
             </style>
-            <h1 style="color:red">I'm Roger, I'm a</h1>
+            <h1 style="color:(173, 151, 216)">I'm Roger, I'm a</h1>
 <div class="container">
   <div class="typed-out">Full Stack Developer</div></div>
         </div>
