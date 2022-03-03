@@ -46,16 +46,7 @@ body{
   }
 }
 
-#yt-link {
-  position: absolute;
-  bottom: 2em;
-  width: 100%;
-  color: hsl(0 0 0 / 0.7);
 
-  &:hover,
-  &:focus {
-    color: teal;
-  }
             </style>
             <h1>I'm Roger, I'm a</h1>
 <div class="container">
