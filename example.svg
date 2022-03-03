@@ -28,11 +28,9 @@ body{
   transform: translateY(3rem);
   animation: fadeInUp 2s ease calc(var(--typewriterSpeed) + 2s) forwards;
 }
-@keyframes typewriter {
-  to {
-   from { width: 0 }
+@keyframes typing {
+  from { width: 0 }
   to { width: 100% }
-  }
 }
 
 
