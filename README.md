@@ -1,4 +1,5 @@
-### >Olá! Tudo bem? Me chamo Roger Guimarães. 😆
+<h1>Hello, my name is Kevin.</h1>
+<p class="subtitle">Welcome to my website!</p>
 
 
 <!--
@@ -32,7 +33,7 @@
 <img align="center" alt="Rogi-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
 <img align="center" alt="Rogi-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align="right" alt="Rogi-cat" src="https://cdn.discordapp.com/attachments/770742898328338502/943999803568836610/bongo-cat-codes.gif">
-  <img align="left" alt="Rogi-esq" height="400" width="350" src="https://cdn.discordapp.com/attachments/770742898328338502/944038248412512366/a83eea6714a6a7d8bb5e588e9c108552228f7e3cr1-540-540_hq.gif">
+  <img align="left" alt="Rogi-esq" height="400" width="350" 
 
 </div>
  
@@ -45,5 +46,97 @@
   <a href="https://www.linkedin.com/in/roger-guimar%C3%A3es-575619195" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
  </a>
  
+<style>
+:root {
+  --bg-color: hsl(49 37% 94%);
+  --typewriterSpeed: 6s;
+  --typewriterCharacters: 24;
+}
+
+body {
+  margin: 0;
+  font-family: "Source Sans Pro", sans-serif;
+  min-height: 100vh;
+  display: grid;
+  place-content: center;
+  text-align: center;
+  background: var(--bg-color);
+}
+
+h1 {
+  font-size: clamp(1rem, 3vw + 1rem, 4rem);
+  position: relative;
+  font-family: "Source Code Pro", monospace;
+  position: relative;
+  width: max-content;
+}
+
+h1::before,
+h1::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+h1::before {
+  background: var(--bg-color);
+  animation: typewriter var(--typewriterSpeed)
+    steps(var(--typewriterCharacters)) 1s forwards;
+}
+
+h1::after {
+  width: 0.125em;
+  background: black;
+  animation: typewriter var(--typewriterSpeed)
+      steps(var(--typewriterCharacters)) 1s forwards,
+    blink 750ms steps(var(--typewriterCharacters)) infinite;
+}
+
+.subtitle {
+  color: hsl(0 0% 0% / 0.7);
+  font-size: 2rem;
+  font-weight: 400;
+  opacity: 0;
+  transform: translateY(3rem);
+  animation: fadeInUp 2s ease calc(var(--typewriterSpeed) + 2s) forwards;
+}
+
+@keyframes typewriter {
+  to {
+    left: 100%;
+  }
+}
+
+@keyframes blink {
+  to {
+    background: transparent;
+  }
+}
+
+@keyframes fadeInUp {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+#yt-link {
+  position: absolute;
+  bottom: 2em;
+  width: 100%;
+  color: hsl(0 0 0 / 0.7);
+
+  &:hover,
+  &:focus {
+    color: teal;
+  }
+}
+
+ </style>
+
+
 ![Snake animation](https://github.com/rogergl/rogergl/blob/output/github-contribution-grid-snake.svg)
 </div>
