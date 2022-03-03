@@ -33,7 +33,7 @@ color: rgb(173, 151, 216);
 
 
             </style>
-       <div style="font-family: Source Code Pro, monospace; ">I'm Roger, I'm a</div>
+       <div class="container" style="font-family: Source Code Pro, monospace; ">I'm Roger, I'm a</div>
 <div class="container">
   <div class="typed-out">Full Stack Developer</div></div>
         </div>
