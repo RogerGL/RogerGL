@@ -6,13 +6,16 @@ body{
   background: navajowhite;
   background-size: cover;
   font-family: "Source Code Pro", monospace; 
+  color: rgb(160, 112, 255);
 }
 .container{
   display: inline-block;
 }
 .typed-out{
+color: rgb(160, 112, 255);
   overflow: hidden;
-  border-right: .15em solid orange;
+  font-family: "Source Code Pro", monospace; 
+  border-right: .15em solid purple;
   white-space: nowrap;
   animation: typing 2.5s steps(20, end) forwards, blinking .8s infinite;
   font-size: 1.6rem;
