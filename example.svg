@@ -27,7 +27,7 @@ color: rgb(160, 112, 255);
 }
 @keyframes blinking {
   from { border-color: transparent }
-  to { border-color: orange; }
+  to { border-color: purple; }
 }
 
 
