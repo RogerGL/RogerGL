@@ -16,7 +16,7 @@ body{
   border-right: .15em solid purple;
   white-space: nowrap;
   animation: 
-  typing 0.5s steps(20, end) forwards;
+  typing 2s steps(20, end) forwards;
   font-size: 1.6rem;
   width: 0;
 
