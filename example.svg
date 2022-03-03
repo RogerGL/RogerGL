@@ -19,6 +19,7 @@ body{
   typing 1s steps(20, end) forwards;
   font-size: 1.6rem;
   width: 0;
+font-family: "Source Sans Pro", sans-serif; 
 }
 .subtitle {
   color: hsl(0 0% 0% / 0.7);
