@@ -5,7 +5,7 @@
 body{
   background: navajowhite;
   background-size: cover;
-  font-family: 'Trebuchet MS', sans-serif; 
+  font-family: "Source Code Pro", monospace; 
 }
 .container{
   display: inline-block;
@@ -14,7 +14,7 @@ body{
   overflow: hidden;
   border-right: .15em solid orange;
   white-space: nowrap;
-  animation: typing 1s steps(20, end) forwards, blinking .8s infinite;
+  animation: typing 2.5s steps(20, end) forwards, blinking .8s infinite;
   font-size: 1.6rem;
   width: 0;
 }
