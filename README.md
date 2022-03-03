@@ -33,9 +33,7 @@
 <img align="center" alt="Rogi-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 <img align="center" alt="Rogi-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
 <img align="center" alt="Rogi-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  <img align="right" alt="Rogi-cat" src="https://cdn.discordapp.com/attachments/770742898328338502/943999803568836610/bongo-cat-codes.gif">
-  <img align="left" alt="Rogi-esq" height="400" width="350" 
-
+<img align="right" alt="Rogi-cat" src="https://cdn.discordapp.com/attachments/770742898328338502/943999803568836610/bongo-cat-codes.gif">
 </div>
  
 ##
