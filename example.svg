@@ -12,7 +12,7 @@ body{
 }
 .typed-out{
   overflow: hidden;
-  border-right: .15em solid orange;
+  border-right: .15em solid purple;
   white-space: nowrap;
   animation: 
   typing 1s steps(20, end) forwards;
@@ -24,9 +24,9 @@ body{
   to { width: 100% }
 }
             </style>
-            <h1>I'm Matt, I'm a</h1>
+            <h1>I'm Roger, I'm a</h1>
 <div class="container">
-  <div class="typed-out">Web Developer</div></div>
+  <div class="typed-out">Full Stack Developer</div></div>
         </div>
     </foreignObject>
 </svg>
