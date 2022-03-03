@@ -1,5 +1,5 @@
 <svg fill="none" viewBox="0 0 200 200" width="200" height="200" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="100%">
+    <foreignObject width="80%" height="800%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
 body{
@@ -33,7 +33,7 @@ color: rgb(173, 151, 216);
 
 
             </style>
-            <h1 class="typed-out" style="font-family: Source Code Pro, monospace; ">I'm Roger, I'm a</h1>
+       <h1 class="typed-out" style="font-family: Source Code Pro, monospace; ">I'm Roger, I'm a</h1>
 <div class="container">
   <div class="typed-out">Full Stack Developer</div></div>
         </div>
