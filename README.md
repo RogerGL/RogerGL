@@ -29,7 +29,7 @@
   <img align="center" alt="Rogi-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Rogi-Laravel" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
   <img align="center" alt="Rogi-Vue" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  <img align="right" alt="Rogi-cat" src="https://cdn.discordapp.com/attachments/770742898328338502/943999803568836610/bongo-cat-codes.gif">
+  <!--<img align="right" alt="Rogi-cat" src="https://cdn.discordapp.com/attachments/770742898328338502/943999803568836610/bongo-cat-codes.gif">-->
 </div>
  
 ##
