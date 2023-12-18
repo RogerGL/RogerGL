@@ -74,7 +74,7 @@
 </div>
  -->
 ##
-<h4>Contact</h4>
+<h3>Contact</h3>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rogerguimalopez/)](https://www.linkedin.com/in/rogerguimalopez/)
 [![Gmail Badge](https://img.shields.io/badge/-Mail-%23ff0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rogerguima.lopez@gmail.com)](mailto:rogerguima.lopez@gmail.com)
