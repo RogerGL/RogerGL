@@ -13,11 +13,12 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3>📓 About me<h3>
 <p align="left"> 
   Sou um Desenvolvedor Full Stack Web com experiência sólida em desenvolvimento web, trabalhando em equipe para criar soluções inovadoras e aplicando conhecimentos em uma variedade de linguagens de programação.<br>
 </p>
 
-<h4>Technologies and Tools</h4>
+<h3>💻 Technologies and Tools</h3>
 
 ![php](https://img.shields.io/badge/php-333333?style=flat&logo=Php)
 ![Laravel](https://img.shields.io/badge/Laravel-333333?style=flat&logo=laravel)
@@ -38,7 +39,7 @@
 
 
 
-<h4>GitHub Status</h4>
+<h3>📊 GitHub Status</h3>
 
  <div>
   <a href="https://github.com/rogergl">
@@ -46,7 +47,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogergl&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<h4>🏆 GitHub Profile Trophy</h4>
+<h3>🏆 GitHub Profile Trophy</h3>
 
 <p align="center">
   <a
@@ -73,8 +74,7 @@
   <img align="right" alt="Rogi-cat" src="https://cdn.discordapp.com/attachments/770742898328338502/943999803568836610/bongo-cat-codes.gif">
 </div>
  -->
-##
-<h4>Contact</h4>
+<h3>📩 Contact</h3>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rogerguimalopez/)](https://www.linkedin.com/in/rogerguimalopez/)
 [![Gmail Badge](https://img.shields.io/badge/-Mail-%23ff0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rogerguima.lopez@gmail.com)](mailto:rogerguima.lopez@gmail.com)
