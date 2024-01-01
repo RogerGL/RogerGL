@@ -89,6 +89,6 @@
  -->
 
 
-![Snake animation](https://github.com/RogerGL/RogerGL/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/RogerGL/rogergl/blob/output/github-contribution-grid-snake.svg)
 <!--[![readme](https://github-readme-stats.vercel.app/api/pin/?username=rogergl&repo=rogergl$theme=react)](https://github.com/rogergl/RogerGL) -->
 </div>
