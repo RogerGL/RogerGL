@@ -90,5 +90,5 @@
 
 
 ![Snake animation](https://github.com/rogergl/RogerGL/blob/output/github-contribution-grid-snake.svg)
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=RogerGL&repo=RogerGL$theme=react)](https://github.com/RogerGL/RogerGL)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=rogergl&repo=RogerGL$theme=react)](https://github.com/RogerGL/RogerGL)
 </div>
